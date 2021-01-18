@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Pertemuan4</string>
+    <string name="app_name">BelajarTABLayout</string>
+
+    <string name="frag1">Halaman Inbox</string>
+    <string name="frag2">Halaman Draft</string>
+    <string name="frag3">Halaman Sent</string>
+    <string name="nama_user">KELOMPOK</string>
 </resources>
